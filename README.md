@@ -57,6 +57,15 @@
 | **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/-Mongoose-800?style=flat&logo=mongoose&logoColor=white) ![NeonDB](https://img.shields.io/badge/-NeonDB-00E599?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![Drizzle](https://img.shields.io/badge/-Drizzle-FFCA28?style=flat&logo=javascript&logoColor=black) |
 | **Machine Learning / Deep Learning** | ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=flat&logo=openai&logoColor=white) |
 
-<!-- dark snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syedmaaz786&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=syedmaaz786&theme=github-dark&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmaaz786&layout=compact&theme=github_dark&hide_border=true" height="180" />
+</p>
+
 
