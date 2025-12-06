@@ -69,7 +69,7 @@
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/syed-maaz"target="_blank">
+  <a href="https://www.linkedin.com/in/syed-maaz-96806b279/"target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
