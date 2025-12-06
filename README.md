@@ -58,8 +58,6 @@
 | **Machine Learning / Deep Learning** | ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=flat&logo=openai&logoColor=white) |
 
 
-Make the same changes to this
-
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 
