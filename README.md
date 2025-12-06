@@ -48,10 +48,8 @@
 
 <!--   my-ticker -->    
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+Iam+Syed+Maaz+—+a+guy+whose+heart+beats+at+127+.+0+.+0+.+1+.+;AI+in+my+mind+code+in+my+hands;AI+won’t+replace+you,+but+someone+using+AI+definitely+will;Living+the+bug–fix–learn+cycle+daily" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Syed+Maaz+—+a+guy+whose+heart+beats+at+127.0.0.1;AI+in+my+mind,+code+in+my+hands;AI+won’t+replace+you,+but+someone+using+AI+definitely+will;Living+the+bug–fix–learn+cycle+daily" />
 </p>
-
-
 
 <a href="https://tryhackme.com/signup?referrer=6606c6ff813081fdb556602e"><img src="https://tryhackme-badges.s3.amazonaws.com/andrej.marinchenko.png" alt="TryHackMe"></a>
 <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
