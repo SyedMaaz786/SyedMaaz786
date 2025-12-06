@@ -48,7 +48,7 @@
 
 <!--   my-ticker -->    
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&width=720&lines=Hi+there+%F0%9F%91%8B,+I+am+Syed+Maaz+—+a+guy+whose+heart+beats+at+127.0.0.1;AI+in+my+mind,+code+in+my+hands;AI+won%E2%80%99t+replace+you,+but+someone+using+AI+definitely+will;Living+the+bug%E2%80%93fix%E2%80%93learn+cycle+daily" alt="Hi there, I am Syed Maaz — typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&width=720&lines= +Hi+there+%F0%9F%91%8B,+I+am+Syed+Maaz+—+a+guy+whose+heart+beats+at+127.0.0.1;AI+in+my+mind,+code+in+my+hands;AI+won%E2%80%99t+replace+you,+but+someone+using+AI+definitely+will;Living+the+bug%E2%80%93fix%E2%80%93learn+cycle+daily" alt="Hi there, I am Syed Maaz — typing intro" />
 </p>
 
 
