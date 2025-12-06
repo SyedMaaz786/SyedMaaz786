@@ -66,4 +66,17 @@
   />
 </p>
 
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="[https://www.linkedin.com/in/syed-maaz-786/](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:syedmaaz78622@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
+  </a>
+</p>
+
+
 
