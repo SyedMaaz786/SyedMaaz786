@@ -2,12 +2,43 @@
 
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-    <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
-    <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
-    <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
+
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python" height="45" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="45" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="45" />
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" />
+  <img src="https://skillicons.dev/icons?i=express" height="45" />
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react" height="45" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" />
+
+  <!-- DevOps / Tools -->
+  <img src="https://skillicons.dev/icons?i=docker" height="45" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
+  <img src="https://skillicons.dev/icons?i=postman" height="45" />
+
+  <!-- AI / ML -->
+  <img src="https://skillicons.dev/icons?i=py" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" />
+
+  <!-- LLM / RAG / Agentic (no official icons, using custom) -->
+  <img src="https://img.shields.io/badge/RAG-Pipeline-blue?style=for-the-badge" height="35">
+  <img src="https://img.shields.io/badge/LLM-Engineering-purple?style=for-the-badge" height="35">
+  <img src="https://img.shields.io/badge/Agentic-AI-green?style=for-the-badge" height="35">
+  <img src="https://img.shields.io/badge/OpenAI-Model-black?style=for-the-badge&logo=openai" height="35">
+  <img src="https://img.shields.io/badge/Ollama-Server-orange?style=for-the-badge" height="35">
+
 </p>
 
 <!--   my-header-img -->
@@ -16,7 +47,10 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+Iam+Syed+Maaz+—+a+guy+whose+heart+beats+at+127.0.0.1.;+AI+in+my+mind+code+in+my+hands;+AI+won’t+replace+you,+but+someone+using+AI+definitely+will+.+Living+the+bug–fix–learn+cycle+daily)]
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+Iam+Syed+Maaz+—+a+guy+whose+heart+beats+at+127.0.0.1.;AI+in+my+mind+code+in+my+hands;AI+won’t+replace+you,+but+someone+using+AI+definitely+will;Living+the+bug–fix–learn+cycle+daily" />
+</p>
+
 
 
 <a href="https://tryhackme.com/signup?referrer=6606c6ff813081fdb556602e"><img src="https://tryhackme-badges.s3.amazonaws.com/andrej.marinchenko.png" alt="TryHackMe"></a>
