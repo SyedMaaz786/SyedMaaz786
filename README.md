@@ -60,12 +60,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedmaaz786&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" height="180" />
-  
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmaaz786&layout=compact&theme=github_dark&hide_border=true" height="180" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=syedmaaz786&theme=github-dark&hide_border=true" 
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 
