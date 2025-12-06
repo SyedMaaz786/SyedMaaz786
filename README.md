@@ -57,3 +57,8 @@
 | **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/-Mongoose-800?style=flat&logo=mongoose&logoColor=white) ![NeonDB](https://img.shields.io/badge/-NeonDB-00E599?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![Drizzle](https://img.shields.io/badge/-Drizzle-FFCA28?style=flat&logo=javascript&logoColor=black) |
 | **Machine Learning / Deep Learning** | ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=flat&logo=openai&logoColor=white) |
 
+## 🎮 Play My Contribution Snake Game
+
+➡️ **Play here:**  
+https://syedmaaz786.github.io/<repo-name>/
+
