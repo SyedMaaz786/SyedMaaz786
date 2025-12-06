@@ -42,6 +42,8 @@
 </p>
 
 
+![](./src/header_.png)
+
 <!--   my-ticker -->    
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I+am+Syed+Maaz;A+guy+whose+heart+beats+at+127.0.0.1" />
