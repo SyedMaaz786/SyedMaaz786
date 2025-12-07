@@ -28,7 +28,6 @@
   <img src="https://skillicons.dev/icons?i=postman" height="45" />
 
   <!-- AI / ML -->
-  <img src="https://skillicons.dev/icons?i=py" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" />
 
