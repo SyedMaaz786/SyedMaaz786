@@ -55,11 +55,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=SyedMaaz786&theme=github-dark&hide_border=true" 
-    alt="GitHub Streak Stats"
-  />
+  <img src="https://streak-stats.demolab.com/?user=SyedMaaz786&theme=github-dark&hide_border=true" 
+       onerror="this.onerror=null;this.src='https://github-readme-streak-stats-salesp07.vercel.app/?user=SyedMaaz786&theme=github-dark&hide_border=true';" />
 </p>
+
 
 
 ## 📬 Connect With Me
