@@ -56,7 +56,7 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=syedmaaz786&theme=github-dark&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=SyedMaaz786&theme=github-dark&hide_border=true" 
     alt="GitHub Streak Stats"
   />
 </p>
